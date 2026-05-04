@@ -11,4 +11,4 @@ for i in range(PARTIDAS):
 if sum(lista) >= 100:
     print("Classificado")
 else:
-    print("Eliminado")
+    print("Eliminado") 
