@@ -33,6 +33,7 @@ for ii in lista:
     """
 
 #print(lista_final)
-print("Menor valor: ",min(lista_final))
-print("Posicao: ",lista_final.index(min(lista_final)))
+menor = min(lista_final)
+print("Menor valor: ", menor)
+print("Posicao: ",lista_final.index(menor))
 
